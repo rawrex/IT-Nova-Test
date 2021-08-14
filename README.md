@@ -1,3 +1,5 @@
+Time spent on design, implementation, and tests: 5.5 hours.
+
 1. Current employees are read out from a file. 
 
 2. Settings are read out from a file (as was specified) at the time of creation of first instance of some class derived from the Account class. Afterwards, settings are stored as a static std::unordered_map, which maps a wage category name (std::string) to a wage (double). 
