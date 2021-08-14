@@ -1,4 +1,5 @@
 Time spent on design, implementation, and tests: **5.5 hours**.
+
 The placement of the definitions inside the header files is intentional, so to aid the browsing among files.
 
 **1.** Current employees are read out from a file. 
