@@ -1,0 +1,3 @@
+Bonus:10%
+Professor:100.0
+Assistant:70.0
